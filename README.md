@@ -1,2 +1,2 @@
-# learning_programming
-программа можно 
+# Python
+моё обучение
