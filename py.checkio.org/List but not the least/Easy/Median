@@ -1,0 +1,12 @@
+def checkio(data: list[int]) -> int | float:
+    for i in range(len(data)-1):
+        for j in range(len(data)-i-1):
+            if data[j] > data[j+1]:
+                data[j], data[j+1] = data[j+1], data[j]
+    length = len(data)
+    middle = length // 2
+    if length % 2 == 0:
+        median = (data[middle - 1] + data[middle]) / 2
+    else:
+        median = data[middle]
+    return median
