@@ -1,10 +1,5 @@
 def checkio(number: int) -> int:
-    a = []
-    b = str(number)
     mult = 1
-    for i in b:
-        if i != '0':
-           a.append(int(i)) 
-    for j in a:
-        mult *= j 
+    for i in str(number).replace("0",""):
+        mult *= int(i)
     return mult
