@@ -1,0 +1,12 @@
+from collections.abc import Iterable
+
+
+def quadratic_roots(a: int, b: int, c: int) -> Iterable[int | str]:
+    answer = []
+    D = b**2 - 4*a*c
+    if (D > 0) or (D == 0):
+        answer.append(((-b + D**0.5)/(2*a)))
+        answer.append(((-b - D**0.5)/(2*a)))
+    else:
+        answer.append(str("No real roots"))
+    return answer
