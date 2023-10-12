@@ -1,0 +1,2 @@
+def determine_sign(num: int) -> str:
+    return "positive" if num > 0 else "negative" if num < 0 else "zero"
