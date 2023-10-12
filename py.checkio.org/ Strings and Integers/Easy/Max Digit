@@ -1,0 +1,8 @@
+def max_digit(value: int) -> int:
+    m = value % 10
+    value = value // 10
+    while value > 0:
+        if value % 10 > m:
+            m = value % 10
+        value = value // 10
+    return m
