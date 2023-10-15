@@ -1,0 +1,2 @@
+def sum_upto_n(N: int) -> int:
+    return (int(N*(1 + N)*0.5))
