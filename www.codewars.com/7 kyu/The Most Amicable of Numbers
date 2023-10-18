@@ -1,0 +1,13 @@
+def amicable_numbers(n1,n2):
+    numb1 = []
+    numb2 = []
+    for i in range(n1 - 1, 1, -1):
+        if (n1 % i == 0):
+            numb1.append(i)
+    for j in range(n2 - 1, 1, -1):
+        if (n2 % j == 0):
+            numb2.append(j)
+    if n1 == sum(numb2) + 1 and n2 == sum(numb1) + 1:
+        return True
+    else:
+        return False
