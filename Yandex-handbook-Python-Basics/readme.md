@@ -5,7 +5,7 @@
 <details>
   <summary>2.1. Ввод и вывод данных. Операции с числами, строками. Форматирование</summary>
   
-[Решения 2.1.] (https://github.com/anastaka/Python/edit/main/Yandex-handbook-Python-Basics/2.1.md)
+[Решения 2.1] (https://github.com/anastaka/Python/blob/main/Yandex-handbook-Python-Basics/2.1.md)
   ```
 A. Привет, Яндекс!
 B. Привет, всем!
@@ -30,8 +30,7 @@ T. Мухи отдельно, котлеты отдельно
   ```
 </details>
 <details>
-  <summary>2.2.
-Условный оператор</summary>
+  <summary>2.2. Условный оператор</summary>
   
 [Решения 2.2](https://github.com/)
   
