@@ -3,10 +3,9 @@
 
 ### Раскрывающиеся списки заданий со ссылками на их решение по каждой главе:
 <details>
-  <summary>2.1.
-Ввод и вывод данных. Операции с числами, строками. Форматирование</summary>
+  <summary>2.1. Ввод и вывод данных. Операции с числами, строками. Форматирование</summary>
   
-[Решения 2.1](https://github.com/anastaka/Python/main/Yandex-handbook-Python-Basics/2.1.md)
+[Решения 2.1](https://github.com/anastaka/Python/Yandex-handbook-Python-Basics/2.1.md)
   ```
 A. Привет, Яндекс!
 B. Привет, всем!
