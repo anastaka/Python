@@ -6,7 +6,7 @@
   <summary>2.1.
 Ввод и вывод данных. Операции с числами, строками. Форматирование</summary>
   
-[Решения 2.1](https://raw.githubusercontent.com/anastaka/Python/main/Yandex-handbook-Python-Basics/2.1.md)
+[Решения 2.1](https://github.com/anastaka/Python/main/Yandex-handbook-Python-Basics/2.1.md)
   ```
 A. Привет, Яндекс!
 B. Привет, всем!
