@@ -1,0 +1,11 @@
+def narcissistic(value):
+    numbers = []
+    sum = 0
+    for i in range(len(str(value))):
+        numbers.append(int(str(value)[i]))
+    for j in range(len(numbers)):
+        sum += numbers[j]**len(numbers)
+    if sum == value:
+        return True
+    else:
+        return False
