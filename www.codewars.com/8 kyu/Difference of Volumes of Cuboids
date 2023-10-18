@@ -1,0 +1,8 @@
+def find_difference(a, b):
+    product_a = 1
+    product_b = 1
+    for num in a:
+        product_a *= num    
+    for mun in b:
+        product_b *= mun
+    return int(max(product_a, product_b) - min(product_a, product_b))
