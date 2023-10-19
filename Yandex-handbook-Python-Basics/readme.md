@@ -34,7 +34,7 @@ T. Мухи отдельно, котлеты отдельно
   <summary>2.2. 
     Условный оператор</summary>
   
-[Решения 2.2](https://github.com/anastaka/Python/blob/main/Yandex-handbook-Python-Basics/2.1.md)
+[Решения 2.2](https://github.com/anastaka/Python/blob/main/Yandex-handbook-Python-Basics/2.2.md)
   
   ```
 A. Просто здравствуй, просто как дела
@@ -63,7 +63,7 @@ T. Зайка — 2
   <summary>2.3.
 Циклы</summary>
 
-[Решения 2.3](https://github.com/)
+[Решения 2.3](https://github.com/anastaka/Python/blob/main/Yandex-handbook-Python-Basics/2.1.md)
   ```
 A. Раз, два, три! Ёлочка, гори!
 B. Зайка — 3
