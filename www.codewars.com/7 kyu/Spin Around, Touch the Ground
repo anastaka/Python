@@ -1,0 +1,8 @@
+def spin_around(lst):
+    count = 0
+    for idx in lst:
+        if idx == "right":
+            count += 1
+        else:
+            count -=1
+    return abs(int(count / 4))
