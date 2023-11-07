@@ -1,0 +1,5 @@
+def middle(text: str) -> str:
+    if len(text) % 2 == 0:
+        return text[len(text)//2 - 1:len(text)//2 + 1]
+    else:
+        return (text[len(text)//2])
