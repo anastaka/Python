@@ -63,7 +63,7 @@ T. Зайка — 2
   <summary>2.3.
 Циклы</summary>
 
-[Решения 2.3](https://github.com/anastaka/Python/blob/main/Yandex-handbook-Python-Basics/2.1.md)
+[Решения 2.3](https://github.com/anastaka/Python/blob/main/Yandex-handbook-Python-Basics/2.3.md)
   ```
 A. Раз, два, три! Ёлочка, гори!
 B. Зайка — 3
