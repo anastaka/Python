@@ -1,0 +1,8 @@
+def count_digits(text: str) -> int:
+    count = 0
+
+    for word in text:
+        if word.isdigit():
+            count += 1
+
+    return count
