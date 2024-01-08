@@ -1,4 +1,0 @@
-def correct_sentence(text: str) -> str:
-    if text[-1] != '.':
-        text = text + '.'
-    return text[0].upper() + text[1:]
