@@ -1,5 +1,5 @@
 # Strings and Integers
-Решено 97% задач данной локации. Осталась всего одна "Excel Column Number"
+Решено 97% (52 из 53) задач данной локации. Осталась всего одна "Excel Column Number"
 
 Acceptable Password I
 ```python
