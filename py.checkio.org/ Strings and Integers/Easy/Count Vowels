@@ -1,2 +1,0 @@
-def count_vowels(text: str) -> int:
-    return sum([1 for x in text.lower() if x in 'aeiou'])

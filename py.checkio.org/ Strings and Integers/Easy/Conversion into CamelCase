@@ -1,2 +1,0 @@
-def to_camel_case(name: str) -> str:
-    return name.replace('_', ' ').title().replace(' ', '')

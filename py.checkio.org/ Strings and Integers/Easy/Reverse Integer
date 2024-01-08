@@ -1,6 +1,0 @@
-def reverse_digits(num: int) -> int:
-    if num >= 0:
-        y = int(str(num)[::-1])
-    else:
-        y = -int(str(num)[::-1].replace('-',''))
-    return y

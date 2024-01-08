@@ -1,3 +1,0 @@
-def first_word(text: str) -> str:
-    word = text.split()
-    return word[0]

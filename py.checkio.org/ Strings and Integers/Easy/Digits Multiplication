@@ -1,5 +1,0 @@
-def checkio(number: int) -> int:
-    mult = 1
-    for i in str(number).replace("0",""):
-        mult *= int(i)
-    return mult

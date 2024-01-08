@@ -1,7 +1,0 @@
-def longest_word(sentence: str) -> str:
-    if (sentence == "") or (sentence == " "):
-        return ""
-    else:
-        sentence = sentence.replace('-', '').replace("!", "").split()
-        max_s = max(sentence, key = len)
-        return max_s

@@ -1,5 +1,0 @@
-def from_camel_case(name: str) -> str:
-    for world in name:
-        if world.isupper():
-            name = name.replace(world, '_' + world.lower())
-    return name.strip('_')

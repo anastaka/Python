@@ -1,3 +1,0 @@
-def backward_string(val: str) -> str:
-    # your code here
-    return val[::-1]

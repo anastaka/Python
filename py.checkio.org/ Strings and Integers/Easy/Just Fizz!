@@ -1,2 +1,0 @@
-def checkio(num: int) -> str:
-    return f'{num}'if num%3 != 0 else 'Fizz'

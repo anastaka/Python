@@ -1,2 +1,0 @@
-def number_length(value: int) -> int:
-    return int(len(str(value)))
